@@ -1,3 +1,5 @@
+[![Claude Certified Developer – Foundations (CCDV-F) — What the Exam Actually Asks You to Build](./book/claude-certified-developer-guide-social-800x400.jpg)](https://github.com/vkorost/claude-certified-developer-guide/releases/latest)
+
 # Claude Certified Developer – Foundations (CCDV-F)
 
 ### What the Exam Actually Asks You to Build
